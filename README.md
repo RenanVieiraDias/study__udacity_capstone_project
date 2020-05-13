@@ -1,10 +1,8 @@
 # study__udacity_capstone_project
----
 This repository include all the work develop on the final project of the Udacity Data Scientist Nanodegree.
 
 
 ## Project Summary
----
 Your task is to combine transaction, demographic and offer data to determine which demographic groups respond best to which offer type.
 Not all users receive the same offer, and that is the challenge to solve with this data set.
 
@@ -12,12 +10,10 @@ This data set is a simplified version of the real Starbucks app because the unde
 
 
 ## Article
----
-The conclusions from the work develop in this notebook is this [post](#creatinglink).
+The conclusions from the work develop in this notebook is this [post](https://medium.com/@renanvieiradias/starbucks-case-study-optimizing-customer-offers-4ff1f8474909).
 
 
 ## Data Sets
----
 The data is contained in three files:
 
  - portfolio.json - containing offer ids and meta data about each offer (duration, type, etc.)
@@ -48,5 +44,4 @@ Here is the schema and explanation of each variable in the files:
    - value - (dict of strings) - either an offer id or transaction amount depending on the record
 
 #### Rubrick
----
 The project rubrick can be found in [here](https://review.udacity.com/#!/rubrics/2345/view)
